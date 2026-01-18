@@ -49,15 +49,16 @@ export const Projects = () => {
             style={{ backgroundImage: "url('/Projects/amazaon.png.png')" }}
             whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
           />
-          <h3> Amazoan Clone</h3>
+          <h3> MOVIE UPDATER</h3>
           <p>
             A modern SaaS platform built with Next.js and OpenAI integration,
             featuring real-time AI-powered content generation and analytics.
           </p>
           <div className="project-tech">
             <span>HTML</span>
-            <span>CSS</span>
+            <span>TAILWIND</span>
             <span>Javascript</span>
+            <span>React</span>
           </div>
         </motion.div>
 
