@@ -51,8 +51,17 @@ export const Projects = () => {
           />
           <h3> MOVIE UPDATER</h3>
           <p>
-            A modern SaaS platform built with Next.js and OpenAI integration,
-            featuring real-time AI-powered content generation and analytics.
+          Movie Updater App is a modern web application that helps 
+            users stay updated with the latest movies, upcoming releases,
+            and trending content from the film industry. The app provides 
+            real-time movie data, detailed information, and an intuitive 
+            browsing experience for movie enthusiasts.
+
+Users can explore movies by category, search for specific titles,
+            view posters, read overviews, check vote counts, and 
+            stay informed about what’s coming next. The application
+            is designed with a clean UI and smooth navigation to
+            ensure an engaging user experience.
           </p>
           <div className="project-tech">
             <span>HTML</span>
